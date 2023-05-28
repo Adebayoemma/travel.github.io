@@ -1,0 +1,21 @@
+<!--?xml version="1.0" standalone="no"?--><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="300.000000pt" height="200.000000pt" viewBox="0 0 300.000000 200.000000" preserveAspectRatio="xMidYMid meet">
+<metadata>
+  <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:description dc:title="menu button responsive" dc:publisher="Hiox" dc:date="2015-03-19" dc:format="image/svg+xml" dc:language="en">
+      <dc:creator>
+        <rdf:bag>
+          <rdf:li>svgimages.com</rdf:li>
+        </rdf:bag>
+      </dc:creator>
+    </rdf:description>
+  </rdf:rdf>
+</metadata>
+<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" fill="#050505" stroke="none">
+<path d="M760 1430 l0 -120 700 0 700 0 0 120 0 120 -700 0 -700 0 0 -120z" id="node1" class="node"></path>
+<path d="M760 1005 l0 -115 700 0 700 0 0 115 0 115 -700 0 -700 0 0 -115z" id="node2" class="node"></path>
+<path d="M760 560 l0 -120 700 0 700 0 0 120 0 120 -700 0 -700 0 0 -120z" id="node3" class="node"></path>
+</g>
+<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)" fill="#A5A5A5" stroke="none">
+
+</g>
+</svg>
